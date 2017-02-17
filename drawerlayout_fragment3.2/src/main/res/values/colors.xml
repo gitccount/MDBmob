@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="color" name="category_state_pressed">#00BFFF</item>
+    <item type="color" name="white">#ffffff</item>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBlack">#000000</color>
+    <item type="color" name="gridview_press">#F6F8FA</item>
+    <item type="color" name="gradview_content_text_color">#9EA7B0</item>
+</resources>

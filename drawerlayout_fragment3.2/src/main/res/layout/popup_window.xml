@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/gvPopupWindow"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    
+     <GridView
+            android:id="@+id/pop_gridview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:listSelector="@drawable/system_mange_list_bk"
+            android:numColumns="3"
+            android:stretchMode="columnWidth" 
+            android:background="@color/white"/>
+	 <View 
+	    android:id="@+id/pop_bg"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:background="#907F7F7F"/> 
+</LinearLayout>

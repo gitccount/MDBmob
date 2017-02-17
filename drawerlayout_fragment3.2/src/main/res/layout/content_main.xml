@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.view.ViewPager
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="/tools"
+    xmlns:app="/apk/res-auto"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    android:id="@+id/viewPager"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="cn.bill56.tablayoutdemo.MainActivity"
+    tools:showIn="@layout/activity_main">
+
+</android.support.v4.view.ViewPager>
