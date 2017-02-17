@@ -64,7 +64,9 @@ import cn.bmob.v3.listener.UpdateListener;
 import cn.bmob.v3.listener.UploadFileListener;
 
 import static com.example.drawerlayout_fragment.Activity.up.LongToast;
-
+/*
+/听安家了头文件
+ */
 public class MainActivity extends AppCompatActivity implements View.OnClickListener, AdapterView.OnItemClickListener {
     private static final int IMAGE_REQUEST_CODE = 0, CAMERA_REQUEST_CODE = 1,
             RESIZE_REQUEST_CODE = 2;
